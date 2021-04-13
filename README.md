@@ -15,6 +15,8 @@
 <!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.JS&logoColor=4FC08D) -->
 
+[![MrDenySU GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdenysu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to reach me and follow me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/mrdenysu)
