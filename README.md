@@ -1,6 +1,6 @@
 [![Header](https://github.com/mrdenysu/mrdenysu/raw/master/assets/header.jpeg)](https://github.com/mrdenysu)
 
-## I'm an aspiring Flutter and NodeJS-Backend developer
+## I'm a Dart and NodeJS developer
 
 ### Languages and Tools:
 
